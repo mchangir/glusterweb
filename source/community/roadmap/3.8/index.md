@@ -501,7 +501,7 @@ storage and network overhead when copies are made.
 
 
 ### Glusterfind and Bareos Integration
-***TODO***: add summary
+This effort documents configuration required on bareos end to use the glusterfind tool to backup Gluster volumes.
 
 * **Status**:
   (8-March-2016) Implementation ready, needs communication and testing by
@@ -511,10 +511,10 @@ storage and network overhead when copies are made.
   Milind Changire
 
 * **Feature page:**
-  ...
+  http://review.gluster.org/13436
 
 * **Tracker Bug and Patches**:
-  ...
+  http://review.gluster.org/12742, http://review.gluster.org/13864
 
 * **Maintainer**
   *(patch to additional [`MAINTAINERS`][MAINTAINERS] entry)*
